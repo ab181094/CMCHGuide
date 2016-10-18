@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CMCH Guide</string>
+    <string name="btmap">Map</string>
+    <string name="btmaptile">Map Better View</string>
+    <string-array name="buildings">
+        <item>VC Hill</item>
+        <item>Zia hall</item>
+        <item>Arts Faculty</item>
+    </string-array>
+</resources>
